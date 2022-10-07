@@ -30,7 +30,6 @@
 <a href="https://linkedin.com/in/sivaram-pandariganthan-b753a2145" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sivaram-pandariganthan-b753a2145" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/9893185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="9893185" height="30" width="40" /></a>
 <a href="https://medium.com/@sivarampg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sivarampg" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/ucuiwkvs4pxawzmyu3l_qnta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="ucuiwkvs4pxawzmyu3l_qnta" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@sivarampg95" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@sivarampg95" height="30" width="40" /></a>
 </p>
 
